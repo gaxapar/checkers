@@ -1,0 +1,27 @@
+c:\users\klmn\documents\visual studio 2015\Projects\checkers_sharp\checkers_sharp\bin\Debug\checkers_sharp.exe.config
+c:\users\klmn\documents\visual studio 2015\Projects\checkers_sharp\checkers_sharp\bin\Debug\checkers_sharp.exe
+c:\users\klmn\documents\visual studio 2015\Projects\checkers_sharp\checkers_sharp\bin\Debug\checkers_sharp.pdb
+c:\users\klmn\documents\visual studio 2015\Projects\checkers_sharp\checkers_sharp\obj\Debug\checkers_sharp.csprojResolveAssemblyReference.cache
+c:\users\klmn\documents\visual studio 2015\Projects\checkers_sharp\checkers_sharp\obj\Debug\checkers_sharp.Form1.resources
+c:\users\klmn\documents\visual studio 2015\Projects\checkers_sharp\checkers_sharp\obj\Debug\checkers_sharp.Properties.Resources.resources
+c:\users\klmn\documents\visual studio 2015\Projects\checkers_sharp\checkers_sharp\obj\Debug\checkers_sharp.csproj.GenerateResource.Cache
+c:\users\klmn\documents\visual studio 2015\Projects\checkers_sharp\checkers_sharp\obj\Debug\checkers_sharp.exe
+c:\users\klmn\documents\visual studio 2015\Projects\checkers_sharp\checkers_sharp\obj\Debug\checkers_sharp.pdb
+C:\Users\student\Downloads\checkers_sharp\checkers_sharp\bin\Debug\checkers_sharp.exe.config
+C:\Users\student\Downloads\checkers_sharp\checkers_sharp\obj\Debug\checkers_sharp.exe
+C:\Users\student\Downloads\checkers_sharp\checkers_sharp\obj\Debug\checkers_sharp.pdb
+C:\Users\student\Downloads\checkers_sharp\checkers_sharp\bin\Debug\checkers_sharp.exe
+C:\Users\student\Downloads\checkers_sharp\checkers_sharp\bin\Debug\checkers_sharp.pdb
+C:\Users\student\Downloads\checkers_sharp\checkers_sharp\obj\Debug\checkers_sharp.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\checkers_sharp\checkers_sharp\obj\Debug\checkers_sharp.Form1.resources
+C:\Users\student\Downloads\checkers_sharp\checkers_sharp\obj\Debug\checkers_sharp.Properties.Resources.resources
+C:\Users\student\Downloads\checkers_sharp\checkers_sharp\obj\Debug\checkers_sharp.csproj.GenerateResource.Cache
+D:\hetazotakan 2023 test\checkers_sharp\bin\Debug\checkers_sharp.exe.config
+D:\hetazotakan 2023 test\checkers_sharp\obj\Debug\checkers_sharp.exe
+D:\hetazotakan 2023 test\checkers_sharp\obj\Debug\checkers_sharp.pdb
+D:\hetazotakan 2023 test\checkers_sharp\bin\Debug\checkers_sharp.exe
+D:\hetazotakan 2023 test\checkers_sharp\bin\Debug\checkers_sharp.pdb
+D:\hetazotakan 2023 test\checkers_sharp\obj\Debug\checkers_sharp.csprojResolveAssemblyReference.cache
+D:\hetazotakan 2023 test\checkers_sharp\obj\Debug\checkers_sharp.Form1.resources
+D:\hetazotakan 2023 test\checkers_sharp\obj\Debug\checkers_sharp.Properties.Resources.resources
+D:\hetazotakan 2023 test\checkers_sharp\obj\Debug\checkers_sharp.csproj.GenerateResource.Cache
